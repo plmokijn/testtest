@@ -9,6 +9,7 @@ public class test {
 		System.out.println("91011");
 		System.out.println("abc");
 		System.out.println("def");
+		System.out.println("ghi");
 	}
 
 }
